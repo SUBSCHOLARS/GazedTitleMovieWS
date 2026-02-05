@@ -1,2 +1,3 @@
 # GazedTitleMovieWS
-For annoying unityroom
+プラットフォーマーに喧嘩を売るのはやめよう。
+Unityroomで動画を埋め込むためのプロジェクトです。
